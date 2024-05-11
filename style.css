@@ -420,10 +420,10 @@ body{
     width: 150px;
     padding: 12px;
 }
-#inc-dec button:first-child{
+#inc-dec div:first-child{
     margin-bottom: 8px;
 }
-#inc-dec button{
+#inc-dec div{
     border: none;
     background-color: transparent;
     cursor: pointer;
